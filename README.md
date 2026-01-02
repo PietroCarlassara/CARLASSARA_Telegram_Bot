@@ -1,0 +1,3 @@
+### Configurazione:
+1. Copia il file di configurazione d'esempio, esegui: `cp config.example.properties config.properties`;
+2. Completa i campi;

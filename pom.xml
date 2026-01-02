@@ -26,6 +26,12 @@
             <artifactId>telegrambots-client</artifactId>
             <version>9.2.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.xerial</groupId>
+            <artifactId>sqlite-jdbc</artifactId>
+            <version>3.41.2.1</version>
+        </dependency>
     </dependencies>
 
 </project>
