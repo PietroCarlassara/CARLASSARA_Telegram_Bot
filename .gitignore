@@ -39,3 +39,9 @@ build/
 
 # File di configurazione con token
 config.properties
+
+# Database
+/databases/bot.db
+
+# API
+/src/main/java/api/API.java
