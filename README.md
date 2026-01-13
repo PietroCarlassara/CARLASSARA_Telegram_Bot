@@ -3,3 +3,7 @@
 2. Completa i campi;
 
 Da aggiungere: l'utente può scegliere se aggiungere la serie o l'episodio alla tabella watched
+
+git rm --cached nomefile
+
+git add nomefile
