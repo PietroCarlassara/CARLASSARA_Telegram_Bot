@@ -111,7 +111,8 @@ Un **Chat bot Telegram** per cercare Serie TV, Episodi, Attori e Personaggi, vis
 2. Completa i campi
 
 #### Configurazione Database:
-1. Aprire il file SetupDB ed eseguire il codice
+1. Creare una cartella databases nella cartella del progetto
+2. Aprire il file SetupDB ed eseguire il codice
 
 ## Schema del Database
 
