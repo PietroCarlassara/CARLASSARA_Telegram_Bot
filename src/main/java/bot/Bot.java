@@ -67,7 +67,7 @@ public class Bot implements LongPollingSingleThreadUpdateConsumer {
     private final FavouriteDB favouriteDB;
 
     private final API api;
-    private static final String bot_name = "moviedetailsbot_bot";
+    private static final String bot_name = Config.get("telegram.bot.username");
     public static final String bot_url = "https://t.me/" + bot_name;
 
     // Episode
