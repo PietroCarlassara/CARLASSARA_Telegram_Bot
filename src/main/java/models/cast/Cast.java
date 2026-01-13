@@ -1,5 +1,5 @@
 package models.cast;
-import bot.Bot;
+import bot.oldBot.Bot;
 
 public class Cast {
     private Actor person;

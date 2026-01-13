@@ -1,6 +1,6 @@
 package models.episode;
 
-import bot.Bot;
+import bot.oldBot.Bot;
 import com.google.gson.annotations.SerializedName;
 import models.serie.Image;
 import models.serie.Rating;

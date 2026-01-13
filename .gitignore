@@ -41,13 +41,10 @@ build/
 config.properties
 
 # Database
-/databases/bot.db
-
-# API
-/src/main/java/api/API.java
+databases/bot.db
 
 # IDEA
 .idea
 
-# Bot
-src/main/java/bot/Bot.java
+# New bot
+src/main/java/bot/newBot

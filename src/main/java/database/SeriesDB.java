@@ -59,7 +59,7 @@ public class SeriesDB {
             stmt.setInt(1, serie.getId());
             stmt.setString(2, serie.getName());
 
-            if (serie.getRating() != null) {
+            if (serie.getRating() != null && serie.getRating().getAverage() != null) {
                 stmt.setDouble(3, serie.getRating().getAverage());
             } else {
                 stmt.setNull(3, Types.DOUBLE);

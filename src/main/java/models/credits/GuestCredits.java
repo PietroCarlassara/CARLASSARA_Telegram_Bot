@@ -1,6 +1,6 @@
 package models.credits;
 
-import bot.Bot;
+import bot.oldBot.Bot;
 import com.google.gson.annotations.SerializedName;
 import models.episode.Episode;
 
